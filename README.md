@@ -1,4 +1,3 @@
-# Cesium
-Local project of Cesium
+# FlightSim
 
-3D spatial globe in browser
+3D flight simulator in browser using Cesium.js
